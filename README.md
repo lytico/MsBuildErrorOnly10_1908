@@ -1,0 +1,1 @@
+# MsBuildErrorOnly10_1908
